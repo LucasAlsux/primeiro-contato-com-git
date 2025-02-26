@@ -7,5 +7,6 @@ git init /
 git add "nome do arquivo" / git add . / 
 git commit -m "mensagem" / 
 git status / 
+git reset / (volta um passo atrás, deve ser usado antes de commitar/pushar) 
 git push / 
 git pull /  
